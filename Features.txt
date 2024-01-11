@@ -1,7 +1,8 @@
-Users should be able to create a new note 
-Users should be able to open existing file and can do changes in that 
-Users should be able to save there notes and to give it a name 
-Users should be able to change there notes font like style , size 
-Users should be able to  zoom in and zoom out the page 
-Users should be able to cut , copy and paste the selected portion and to replece it from where they want 
-Users should be able to find a word in note 
+Features --
+- create a new note 
+- open existing file and can do changes in that 
+- save there notes and to give it a name 
+- change there notes font like style , size 
+-  zoom in and zoom out the page 
+- to cut , copy and paste the selected portion and to replece it from where they want 
+- find a word in note 
